@@ -1,0 +1,109 @@
+%%%%%%%%%%%%%%%%%%%% book.tex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% sample root file for the chapters of your "monograph"
+%
+% Use this file as a template for your own input.
+%
+%%%%%%%%%%%%%%%% Springer-Verlag %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% RECOMMENDED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[pdftex,12pt, oneside, a4paper]{book}
+
+% choose options for [] as required from the list
+% in the Reference Guide, Sect. 2.2
+%\usepackage[paperwidth=8.5in, paperheight=13in]{geometry}
+
+\usepackage{makeidx}         % allows index generation
+\usepackage{graphicx}        % standard LaTeX graphics tool
+                             % when including figure files
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+\usepackage[english]{babel}
+\usepackage{enumerate}
+\usepackage{paralist}
+\usepackage{float}
+\usepackage{gensymb}  
+\usepackage{listings}
+\usepackage{color} 
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{mathdots}
+
+% make quote in italic
+\newenvironment{italicquotes}
+  {\begin{quote}\itshape}
+  {\end{quote}}
+% etc.
+% see the list of further useful packages
+% in the Reference Guide, Sects. 2.3, 3.1-3.3
+
+% definisi warna untuk kode program
+\definecolor{codegreen}{rgb}{0, 0.6, 0}
+\definecolor{codegray}{rgb}{0.5, 0.5, 0.5}
+\definecolor{codepurple}{rgb}{0.58, 0, 0.82}
+\definecolor{backcolor}{rgb}{0.95, 0.95, 0.92}
+
+% list code custom style
+\lstdefinestyle{mystyle} {
+  backgroundcolor=\color{backcolor}, 
+  commentstyle=\color{codegreen},
+  keywordstyle=\color{magenta}, 
+  numberstyle=\tiny\color{codegray},
+  stringstyle=\color{codepurple},
+  basicstyle=\footnotesize,
+  breakatwhitespace=false, breaklines=true, captionpos=b, keepspaces=true,
+  numbers=left, numbersep=5pt, showspaces=false, showstringspaces=false,
+  showtabs=false, tabsize=2
+}
+
+% mystyle for listing set
+\lstset{
+	style=mystyle,
+	escapeinside={(*}{*)}
+}
+
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\makeindex             % used for the subject index
+                       % please use the style svind.ist with
+                       % your makeindex program
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%\author{Priyanto Tamami}
+%\title{BUKU PETUNJUK OPERASIONAL SISTEM INFORMASI GEOGRAFIS UNTUK PBB-P2 DENGAN MAPINFO VERSI 8.0}
+%\date{22 Desember 2015}
+%\maketitle
+
+\input{./01.title.tex}
+
+\frontmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% disini, nomor halaman berbeda, pake romawi
+%\include{dedic}
+%\include{pref}
+
+
+
+%\tableofcontents
+%\listoffigures
+
+\mainmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\include{02.crud-thymeleaf} 
+\include{03.crud-angular}
+%\include{04.data-sig}
+%\include{05.instalasi-qgis} 
+%\include{06.pengenalan-ui} 
+%\include{07.sistem-referensi-koordinat} 
+%\include{08.georeferensi-data-raster} 
+%\include{09.membuat-data-spasial}
+
+\backmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\printindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}

@@ -1,0 +1,77 @@
+0000000000000000000000000000000000000000 cdca1e68f03a44b8e8e280feb4eb48e55ad2368f tamami <tamami.oka@gmail.com> 1461936951 +0700	initial pull
+cdca1e68f03a44b8e8e280feb4eb48e55ad2368f 0b380518c7c0e717bcb6a9b8f3035d3f4cc2e9b8 tamami <tamami.oka@gmail.com> 1461944034 +0700	commit: melengkapi bab 1
+0b380518c7c0e717bcb6a9b8f3035d3f4cc2e9b8 a92affe6f74e272a57f94fab1e6a65071387eaae tamami <tamami.oka@gmail.com> 1461978428 +0700	commit: penambahan content
+a92affe6f74e272a57f94fab1e6a65071387eaae 1c5e18a5b04c9ca8910fb4e67092ae650b43dfb4 tamami <tamami.oka@gmail.com> 1462221796 +0700	pull: Fast-forward
+1c5e18a5b04c9ca8910fb4e67092ae650b43dfb4 2a3bceb32211dc5b675fc81f46f44e422afec39c tamami <tamami.oka@gmail.com> 1462222695 +0700	commit: init commit
+2a3bceb32211dc5b675fc81f46f44e422afec39c 1bfe5c150fb6e2e874cb8caeb80dbcf6ab6c13df tamami <tamami.oka@gmail.com> 1462222712 +0700	commit: melengkapi content
+1bfe5c150fb6e2e874cb8caeb80dbcf6ab6c13df 3e20f041e144fbba0301506043ecf6dae11a023f tamami <tamami.oka@gmail.com> 1462225302 +0700	commit: mencoba mengadopsi listing tapi belum berhasil
+3e20f041e144fbba0301506043ecf6dae11a023f cda83b24e615fa91557290f810b4e5da1f1584f4 tamami <tamami.oka@gmail.com> 1462225311 +0700	commit: update content
+cda83b24e615fa91557290f810b4e5da1f1584f4 fb2e68573847e7e3d59129def82486f99646e51c tamami <tamami.oka@gmail.com> 1462282926 +0700	pull: Fast-forward
+fb2e68573847e7e3d59129def82486f99646e51c bf9c3eede3e75f7da85f0ac8a0eb9eca5808b4aa tamami <tamami.oka@gmail.com> 1462284383 +0700	commit: update content, belum selesai masalah instalasi di windows
+bf9c3eede3e75f7da85f0ac8a0eb9eca5808b4aa 3301c53a343ae5f991f41552f00a6d685515b250 tamami <tamami.oka@gmail.com> 1462284418 +0700	commit: berhasil membenahi penggunaan \lstset
+3301c53a343ae5f991f41552f00a6d685515b250 33306b7d8c37026e6a9b0364a852af11c5460679 tamami <tamami.oka@gmail.com> 1462284440 +0700	commit: init commit
+33306b7d8c37026e6a9b0364a852af11c5460679 a26b75f827113f080d29865586b9996ce057aa85 tamami <tamami.oka@gmail.com> 1462284466 +0700	commit: init commit
+a26b75f827113f080d29865586b9996ce057aa85 e191dcb790453665caba742a76657d62df7585e7 tamami <tamami.oka@gmail.com> 1462288081 +0700	commit: penambahan bab pengenalan UI
+e191dcb790453665caba742a76657d62df7585e7 e1072ed857d21906f28b500c2059f7ce8efa0f73 tamami <tamami.oka@gmail.com> 1462288096 +0700	commit: update content
+e1072ed857d21906f28b500c2059f7ce8efa0f73 0d08f25362008832d27b0a589caac1103493d8e9 tamami <tamami.oka@gmail.com> 1462288109 +0700	commit: init commit
+0d08f25362008832d27b0a589caac1103493d8e9 10ec00a24ad2895dc81ca9a483679aacb29edf6d tamami <tamami.oka@gmail.com> 1462371369 +0700	pull: Fast-forward
+10ec00a24ad2895dc81ca9a483679aacb29edf6d 79521c9271c745a193bf8d5a5e21275a0eea5544 tamami <tamami.oka@gmail.com> 1462723578 +0700	commit: melengkapi instalasi untuk windows
+79521c9271c745a193bf8d5a5e21275a0eea5544 9b6ddb3420d5cf41e9bd5c9b519e10febc7ec7d4 tamami <tamami.oka@gmail.com> 1462723710 +0700	commit: penambahan content
+9b6ddb3420d5cf41e9bd5c9b519e10febc7ec7d4 dcf3f5123497daffbb65796275061e5ad8997f01 tamami <tamami.oka@gmail.com> 1462723746 +0700	commit: penambahan gambar untuk instalasi windows
+dcf3f5123497daffbb65796275061e5ad8997f01 719edb389b423ae1dc03d4ef38d32428c446a053 tamami <tamami.oka@gmail.com> 1462726257 +0700	commit: penyempurnaan penempatan gambar
+719edb389b423ae1dc03d4ef38d32428c446a053 390976d3fcf5c0931d2ae2ebcddda3ed0cfd26f2 tamami <tamami.oka@gmail.com> 1462726271 +0700	commit: init commit
+390976d3fcf5c0931d2ae2ebcddda3ed0cfd26f2 2eba73cf8b7ba4e3f16c0e93848032c824a0c5b2 tamami <tamami.oka@gmail.com> 1462726590 +0700	commit: merapihkan layout gambar
+2eba73cf8b7ba4e3f16c0e93848032c824a0c5b2 9aa23a598253ce935cfd0524509e4d7389572dea tamami <tamami.oka@gmail.com> 1462744628 +0700	commit: melengkapi content
+9aa23a598253ce935cfd0524509e4d7389572dea 5978f4b2fd626abbc9242971e7c026c98240e05c tamami <tamami.oka@gmail.com> 1462744648 +0700	commit: init commit
+5978f4b2fd626abbc9242971e7c026c98240e05c 11b45da73d4c72e47648471066e453ccfa52cec0 tamami <tamami.oka@gmail.com> 1462749870 +0700	commit: update content
+11b45da73d4c72e47648471066e453ccfa52cec0 204347c3ce7d236a4664ac15aefabbdafcabdda7 tamami <tamami.oka@gmail.com> 1462749878 +0700	commit: init commit
+204347c3ce7d236a4664ac15aefabbdafcabdda7 afd310e9cba8586ab228a5acaf65f00ed0431775 tamami <tamami.oka@gmail.com> 1462751224 +0700	commit: update content
+afd310e9cba8586ab228a5acaf65f00ed0431775 9aabea4c9a6712b98938187af6656fa698afb786 tamami <tamami.oka@gmail.com> 1462751232 +0700	commit: init commit
+9aabea4c9a6712b98938187af6656fa698afb786 53bd85556b916de6b6791d0e258fd83d2f4833e6 tamami <tamami.oka@gmail.com> 1462754865 +0700	commit: update content
+53bd85556b916de6b6791d0e258fd83d2f4833e6 35cb2aa771804a69e717c3dfcbfef30b84bb5330 tamami <tamami.oka@gmail.com> 1462755427 +0700	commit: update content
+35cb2aa771804a69e717c3dfcbfef30b84bb5330 ccc8d7d09d92663c8007db68e38e785db4bb14f5 tamami <tamami.oka@gmail.com> 1462755743 +0700	commit: update content
+ccc8d7d09d92663c8007db68e38e785db4bb14f5 2cab21abf8d687cb507b8258e984b47c879f8b41 tamami <tamami.oka@gmail.com> 1462755752 +0700	commit: init commit
+2cab21abf8d687cb507b8258e984b47c879f8b41 dd6afd0b8414031747c76cf8046769a57fb9cf36 tamami <tamami.oka@gmail.com> 1463326361 +0700	commit: finishing content
+dd6afd0b8414031747c76cf8046769a57fb9cf36 d05a9cedc2e3ff2e65a99572720d0272fe7efa24 tamami <tamami.oka@gmail.com> 1463326378 +0700	commit: init commit
+d05a9cedc2e3ff2e65a99572720d0272fe7efa24 93a82dd5db9fda04ed714ebaeb01d383c9011d81 tamami <tamami.oka@gmail.com> 1463326661 +0700	commit: menambah bab baru, sistem referensi koordinat
+93a82dd5db9fda04ed714ebaeb01d383c9011d81 7ce51104c0bfd9229a41c7465b24cef3784ed399 tamami <tamami.oka@gmail.com> 1463326669 +0700	commit: init commit
+7ce51104c0bfd9229a41c7465b24cef3784ed399 db93f9fb98141704891c14dcde1d82d98b0d023f tamami <tamami.oka@gmail.com> 1463328947 +0700	commit: perbaikan posisi gambar
+db93f9fb98141704891c14dcde1d82d98b0d023f f9568c9e485695ca050d2e19887dd6fada709790 tamami <tamami.oka@gmail.com> 1463328959 +0700	commit: update content
+f9568c9e485695ca050d2e19887dd6fada709790 27340b4ed58d53b6d0fdbfd2ef42116c3de5b48f tamami <tamami.oka@gmail.com> 1463328980 +0700	commit: init commit
+27340b4ed58d53b6d0fdbfd2ef42116c3de5b48f 119fa49a26e0b2dc9c9146dbde83fddf9fc3a357 tamami <tamami.oka@gmail.com> 1463492019 +0700	commit: update content
+119fa49a26e0b2dc9c9146dbde83fddf9fc3a357 b341aa0582ebb1297683c4336a8bc42834ace505 tamami <tamami.oka@gmail.com> 1463494814 +0700	commit: finishing content
+b341aa0582ebb1297683c4336a8bc42834ace505 16e3024ad80cc2553b5634781d8ed1b8df3b6e41 tamami <tamami.oka@gmail.com> 1463751406 +0700	pull: Fast-forward
+16e3024ad80cc2553b5634781d8ed1b8df3b6e41 6234d71551ef3f912f5f892baedce2aa6a726a3e tamami <tamami.oka@gmail.com> 1463752899 +0700	commit: update content
+6234d71551ef3f912f5f892baedce2aa6a726a3e 4d771e8f81a46132324ef6373897aa6aa42f47c8 tamami <tamami.oka@gmail.com> 1463752917 +0700	commit: init commit
+4d771e8f81a46132324ef6373897aa6aa42f47c8 35a17d5c890b0d665182a5a06c69fd2c96e3c784 tamami <tamami.oka@gmail.com> 1463753767 +0700	commit: update content
+35a17d5c890b0d665182a5a06c69fd2c96e3c784 a07a2a5347d02e7390bc44eae00b448e7280e734 tamami <tamami.oka@gmail.com> 1463753783 +0700	commit: update crop to icon
+a07a2a5347d02e7390bc44eae00b448e7280e734 cb94ee01112b0187dfcd5ed9ff59bed9b8205915 tamami <tamami.oka@gmail.com> 1463753794 +0700	commit: init commit
+cb94ee01112b0187dfcd5ed9ff59bed9b8205915 ed26e7e6db67b7e5d3753953063081099ee43cdc tamami <tamami.oka@gmail.com> 1463754479 +0700	commit: update content
+ed26e7e6db67b7e5d3753953063081099ee43cdc 4c20de94444b8e7d72f87f1576c44fabac5bd660 tamami <tamami.oka@gmail.com> 1463754493 +0700	commit: init commit
+4c20de94444b8e7d72f87f1576c44fabac5bd660 25ff48708b949787216bf3b0f54638dfb47a754b tamami <tamami.oka@gmail.com> 1464314721 +0700	commit: update content
+25ff48708b949787216bf3b0f54638dfb47a754b 9f3976895452db77e60cdc1f4f757c90540cc4de tamami <tamami.oka@gmail.com> 1464314734 +0700	commit: init commit
+9f3976895452db77e60cdc1f4f757c90540cc4de c0b5955125008dfa3ae87c31dc95fa06eabf05e6 tamami <tamami.oka@gmail.com> 1464315248 +0700	commit: update content
+c0b5955125008dfa3ae87c31dc95fa06eabf05e6 cd6c45185029439e68daff57aedb796b04063d35 tamami <tamami.oka@gmail.com> 1464315261 +0700	commit: init commit
+cd6c45185029439e68daff57aedb796b04063d35 a8ff199eacf3f139c7b4fde9443001fa6b296b1a tamami <tamami.oka@gmail.com> 1464352725 +0700	commit: perbaikan layout teks dan gambar yang terlalu besar/panjang dimuat dalam sebuah halaman
+a8ff199eacf3f139c7b4fde9443001fa6b296b1a 5a170656639f8043651d29f47bcb44035ccaf456 tamami <tamami.oka@gmail.com> 1464352738 +0700	commit: update content
+5a170656639f8043651d29f47bcb44035ccaf456 bcade23ac0e897fcd4d3efdabf5756837d87bfb1 tamami <tamami.oka@gmail.com> 1464352754 +0700	commit: init commit
+bcade23ac0e897fcd4d3efdabf5756837d87bfb1 2797622253668e84475a81373e0cc045de6cd341 tamami <tamami.oka@gmail.com> 1464353005 +0700	commit: merapihkan gambar dan paragraf yang terlalu besar/panjang
+2797622253668e84475a81373e0cc045de6cd341 6d834e2e0cf3965ba601113e007f3f89e9aa2982 tamami <tamami.oka@gmail.com> 1464353492 +0700	commit: finishing content
+6d834e2e0cf3965ba601113e007f3f89e9aa2982 3a69f814c7ad7368d3d74bf03af4f4d57d9fd2c8 tamami <tamami.oka@gmail.com> 1464353516 +0700	commit: init commit
+3a69f814c7ad7368d3d74bf03af4f4d57d9fd2c8 94e6a8f39dd6edef1c7923a59639013e29ab49c9 tamami <tamami.oka@gmail.com> 1464353570 +0700	commit: menambahkan bab digitasi
+94e6a8f39dd6edef1c7923a59639013e29ab49c9 ebecba0c4157ada3a46ee222072793a1974d0bf4 tamami <tamami.oka@gmail.com> 1464353577 +0700	commit: init commit
+ebecba0c4157ada3a46ee222072793a1974d0bf4 842a56703ac686f3daf132ede069d7076be5e40d tamami <tamami.oka@gmail.com> 1464363235 +0700	commit: init commit
+842a56703ac686f3daf132ede069d7076be5e40d 0e1d2d3aabf775ce70d4a93e6a96defe91a1e306 tamami <tamami.oka@gmail.com> 1464363256 +0700	commit: penambahan bab membuat data spasial
+0e1d2d3aabf775ce70d4a93e6a96defe91a1e306 d307892012394efaefbad3ebe0a29ec249b3aab8 tamami <tamami.oka@gmail.com> 1464363281 +0700	commit: init commit
+d307892012394efaefbad3ebe0a29ec249b3aab8 c3d2a225fa7c1bc27b786b30e6a1cdcdd4ebd24b tamami <tamami.oka@gmail.com> 1464364102 +0700	commit: update content
+c3d2a225fa7c1bc27b786b30e6a1cdcdd4ebd24b 62d51d0df2c8865a469ed609bf7186df53624e2e tamami <tamami.oka@gmail.com> 1464448274 +0700	commit: update content
+62d51d0df2c8865a469ed609bf7186df53624e2e 109fa49b70cce98a92f709b2bf993b59acc203d2 tamami <tamami.oka@gmail.com> 1464448290 +0700	commit: init commit
+109fa49b70cce98a92f709b2bf993b59acc203d2 a1eea233765505425b3062abf40473618db7ed20 tamami <tamami.oka@gmail.com> 1464449441 +0700	commit: update content
+a1eea233765505425b3062abf40473618db7ed20 501e22b56f86d11e808cd25bd07bfe86453e3a7d tamami <tamami.oka@gmail.com> 1464449455 +0700	commit: init commit
+501e22b56f86d11e808cd25bd07bfe86453e3a7d 77d0cf95a937cf70766a038c3ce637c8b9aef478 tamami <tamami.oka@gmail.com> 1464630675 +0700	commit: update content
+77d0cf95a937cf70766a038c3ce637c8b9aef478 40ec2149faf5d9b29fc1e9350db80f815fa929de tamami <tamami.oka@gmail.com> 1464630692 +0700	commit: init commit
+40ec2149faf5d9b29fc1e9350db80f815fa929de a48f07532342c9bd2a282c6b2e24e0ba739a145d tamami <tamami.oka@gmail.com> 1464635043 +0700	commit: finishing content
+a48f07532342c9bd2a282c6b2e24e0ba739a145d 80e88b32a5ba21b3aa93ce3068d6a07edd9fee32 tamami <tamami.oka@gmail.com> 1464635098 +0700	commit: finishing content
+80e88b32a5ba21b3aa93ce3068d6a07edd9fee32 94732d32ccd1a30eaaea7fbe4057b8f3d34ff252 tamami <tamami.oka@gmail.com> 1465076798 +0700	pull: Fast-forward
+94732d32ccd1a30eaaea7fbe4057b8f3d34ff252 99ce58a5ac100cf3eacd4869e63daa82757909db tamami <tamami.oka@gmail.com> 1508683149 +0700	commit: modul thymeleaf selesai
+99ce58a5ac100cf3eacd4869e63daa82757909db 6b2fc3871ac1d1bc07f845c4588718cfb615aa46 tamami <tamami.oka@gmail.com> 1509371418 +0700	commit: finishing modul

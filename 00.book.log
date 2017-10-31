@@ -1,0 +1,1212 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.27)  30 OCT 2017 20:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**00.book.tex
+(./00.book.tex
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 5 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks15
+\footnotemargin=\dimen105
+\c@pp@next@reset=\count89
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen106
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip43
+\plpartopsep=\skip44
+\plitemsep=\skip45
+\plparsep=\skip46
+\pl@lab=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks18
+\float@box=\box26
+\@float@everytoks=\toks19
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count92
+\lst@gtempboxa=\box28
+\lst@token=\toks20
+\lst@length=\count93
+\lst@currlwidth=\dimen107
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen108
+\lst@width=\dimen109
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen110
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks21
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen113
+\Hy@linkcounter=\count100
+\Hy@pagecounter=\count101
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count102
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count103
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen114
+\Fld@menulength=\count104
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count105
+\c@Item=\count106
+\c@Hfootnote=\count107
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count108
+\c@bookmark@seq@number=\count109
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip49
+)
+(/usr/share/texlive/texmf-dist/tex/generic/mathdots/mathdots.sty
+Package: mathdots 2014/06/11 v0.9 Improve and add various macros for dots in ma
+th.
+\MDo@unit=\dimen117
+\MDo@dotsbox=\box30
+\MDoprekern=\muskip11
+\MDopostkern=\muskip12
+\MDodotkern=\muskip13
+)
+\@indexfile=\write3
+\openout3 = `00.book.idx'.
+
+
+Writing index file 00.book.idx
+(./00.book.aux (./02.crud-thymeleaf.aux) (./03.crud-angular.aux))
+\openout1 = `00.book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen118
+\scratchbox=\box31
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen119
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \celsius on input line 74.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 74.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 74.
+Package gensymb Info: Using \Omega for \ohm on input line 74.
+
+Package gensymb Warning: Not defining \micro.
+
+\c@lstlisting=\count116
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 74.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count117
+)
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
+
+(./00.book.out) (./00.book.out)
+\@outlinefile=\write4
+\openout4 = `00.book.out'.
+
+ (./01.title.tex [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\openout2 = `02.crud-thymeleaf.aux'.
+
+ (./02.crud-thymeleaf.tex
+Bab 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+
+Overfull \hbox (4.27368pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/12 Cara pal-ing mu-dah un-tuk mem-u-lai meng-gu-nakan frame-work
+ Spring adalah
+ []
+
+<./resources/001-tampilan-start-spring.png, id=73, 1336.995pt x 749.80125pt>
+File: ./resources/001-tampilan-start-spring.png Graphic file (type png)
+
+<use ./resources/001-tampilan-start-spring.png>
+Package pdftex.def Info: ./resources/001-tampilan-start-spring.png used on inpu
+t line 9.
+(pdftex.def)             Requested size: 390.0pt x 218.71819pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 
+      [1
+
+
+
+
+ <./resources/001-tampilan-start-spring.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+
+<./resources/002-create-spring.png, id=86, 1336.995pt x 749.80125pt>
+File: ./resources/002-create-spring.png Graphic file (type png)
+
+<use ./resources/002-create-spring.png>
+Package pdftex.def Info: ./resources/002-create-spring.png used on input line 3
+3.
+(pdftex.def)             Requested size: 390.0pt x 218.71819pt.
+ [2]
+Overfull \hbox (0.45322pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/12 Setelah \OT1/cmr/m/it/12 file \OT1/cmr/m/n/12 diek-strak, buk
+alah den-gan Net-beans se-hingga ter-li-hat struk-
+ []
+
+<./resources/003-struktur-di-netbeans.png, id=96, 1336.995pt x 749.80125pt>
+File: ./resources/003-struktur-di-netbeans.png Graphic file (type png)
+
+<use ./resources/003-struktur-di-netbeans.png>
+Package pdftex.def Info: ./resources/003-struktur-di-netbeans.png used on input
+ line 42.
+(pdftex.def)             Requested size: 390.0pt x 218.71819pt.
+ [3 <./resources/002-create-spring.png> <./resources/003-struktur-di-netbeans.p
+ng>]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 50.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 50.
+
+<./resources/004-posisi-home-html.png, id=107, 244.915pt x 371.3875pt>
+File: ./resources/004-posisi-home-html.png Graphic file (type png)
+
+<use ./resources/004-posisi-home-html.png>
+Package pdftex.def Info: ./resources/004-posisi-home-html.png used on input lin
+e 64.
+(pdftex.def)             Requested size: 195.0pt x 295.705pt.
+
+<./resources/005-posisi-appcontroller.png, id=109, 303.1325pt x 401.5pt>
+File: ./resources/005-posisi-appcontroller.png Graphic file (type png)
+
+<use ./resources/005-posisi-appcontroller.png>
+Package pdftex.def Info: ./resources/005-posisi-appcontroller.png used on input
+ line 73.
+(pdftex.def)             Requested size: 195.0pt x 258.28241pt.
+ [4 <./resources/004-posisi-home-html.png>]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
+ [5 <./resources/005-posisi-appcontroller.png>]
+<./resources/006-main-class.png, id=153, 1336.995pt x 749.80125pt>
+File: ./resources/006-main-class.png Graphic file (type png)
+
+<use ./resources/006-main-class.png>
+Package pdftex.def Info: ./resources/006-main-class.png used on input line 105.
+
+(pdftex.def)             Requested size: 390.0pt x 218.71819pt.
+
+<./resources/007-localhost-1.png, id=155, 1336.995pt x 749.80125pt>
+File: ./resources/007-localhost-1.png Graphic file (type png)
+
+<use ./resources/007-localhost-1.png>
+Package pdftex.def Info: ./resources/007-localhost-1.png used on input line 116
+.
+(pdftex.def)             Requested size: 390.0pt x 218.71819pt.
+ [6 <./resources/006-main-class.png>]
+<./resources/008-init-project-crud.png, id=169, 1336.995pt x 749.80125pt>
+File: ./resources/008-init-project-crud.png Graphic file (type png)
+
+<use ./resources/008-init-project-crud.png>
+Package pdftex.def Info: ./resources/008-init-project-crud.png used on input li
+ne 148.
+(pdftex.def)             Requested size: 390.0pt x 218.71819pt.
+ [7 <./resources/007-localhost-1.png>]
+
+LaTeX Warning: Reference `fig:lokasi-application-properties' on page 8 undefine
+d on input line 158.
+
+
+Overfull \hbox (19.21793pt too wide) in paragraph at lines 158--159
+\OT1/cmr/m/n/12 yang kita gu-nakan. Kon-fig-urasi ini ada pada \OT1/cmr/m/it/12
+ file \OT1/cmtt/m/n/12 application.properties
+ []
+
+
+<./resources/010-lokasi-application-properties.png, id=176, 342.27875pt x 448.6
+7625pt>
+File: ./resources/010-lokasi-application-properties.png Graphic file (type png)
+
+ <use ./resources/010-lokasi-application-properties.png>
+Package pdftex.def Info: ./resources/010-lokasi-application-properties.png used
+ on input line 162.
+(pdftex.def)             Requested size: 195.0pt x 255.62488pt.
+ [8 <./resources/008-init-project-crud.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 173.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 173.
+ [9 <./resources/010-lokasi-application-properties.png>]
+<./resources/009-tempat-daftar-mahasiswa.png, id=201, 308.15125pt x 444.66125pt
+>
+File: ./resources/009-tempat-daftar-mahasiswa.png Graphic file (type png)
+ <use ./resources/009-tempat-daftar-mahasiswa.png>
+Package pdftex.def Info: ./resources/009-tempat-daftar-mahasiswa.png used on in
+put line 195.
+(pdftex.def)             Requested size: 195.0pt x 281.39328pt.
+ [10 <./resources/009-tempat-daftar-mahasiswa.png>]
+Overfull \hbox (49.377pt too wide) in paragraph at lines 233--234
+\OT1/cmr/m/n/12 nantinya akan di-isikan oleh se-tiap ni-lai yang ada pada vari-
+abel \OT1/cmtt/m/n/12 daftarMahasiswa\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (2.97551pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/12 yaitu \OT1/cmtt/m/n/12 AppController \OT1/cmr/m/n/12 den-gan ta
+m-ba-han \OT1/cmtt/m/n/12 RequestMapping \OT1/cmr/m/n/12 baru se-hingga
+ []
+
+[11]
+Overfull \hbox (33.67773pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/12 baru un-tuk \OT1/cmtt/m/n/12 daftar-mahasiswa\OT1/cmr/m/n/12 , 
+ke-mu-dian pada \OT1/cmr/m/it/12 method \OT1/cmtt/m/n/12 getDaftarMahasiswa
+ []
+
+
+LaTeX Warning: Reference `fig:lokasi-repo-package' on page 12 undefined on inpu
+t line 275.
+
+<./resources/011-lokasi-mhs-repo.png, id=256, 328.22626pt x 439.6425pt>
+File: ./resources/011-lokasi-mhs-repo.png Graphic file (type png)
+
+<use ./resources/011-lokasi-mhs-repo.png>
+Package pdftex.def Info: ./resources/011-lokasi-mhs-repo.png used on input line
+ 279.
+(pdftex.def)             Requested size: 195.0pt x 261.19138pt.
+
+
+LaTeX Warning: Reference `fig:lokasi-repo-package' on page 12 undefined on inpu
+t line 281.
+
+[12] [13 <./resources/011-lokasi-mhs-repo.png>]
+<./resources/012-lokasi-mahasiswa-java.png, id=307, 338.26375pt x 501.875pt>
+File: ./resources/012-lokasi-mahasiswa-java.png Graphic file (type png)
+
+<use ./resources/012-lokasi-mahasiswa-java.png>
+Package pdftex.def Info: ./resources/012-lokasi-mahasiswa-java.png used on inpu
+t line 311.
+(pdftex.def)             Requested size: 195.0pt x 289.32635pt.
+ [14 <./resources/012-lokasi-mahasiswa-java.png>]
+Overfull \hbox (69.9259pt too wide) in paragraph at lines 348--349
+[]\OT1/cmr/m/n/12 Nantinya di \OT1/cmr/m/it/12 browser \OT1/cmr/m/n/12 harus me
+lakukan ak-ses ke []$\OT1/cmtt/m/n/12 localhost : 8080 / daftar-[]mahasiswa$[]\
+OT1/cmr/m/n/12 ,
+ []
+
+
+<./resources/013-output-daftar-mahasiswa.png, id=318, 663.47874pt x 416.55624pt
+>
+File: ./resources/013-output-daftar-mahasiswa.png Graphic file (type png)
+ <use ./resources/013-output-daftar-mahasiswa.png>
+Package pdftex.def Info: ./resources/013-output-daftar-mahasiswa.png used on in
+put line 352.
+(pdftex.def)             Requested size: 312.00119pt x 195.88315pt.
+ [15]
+Overfull \hbox (3.3216pt too wide) in paragraph at lines 365--366
+\OT1/cmr/m/n/12 pada bagian \OT1/cmtt/m/n/12 Other Sources \OT1/cmr/m/n/12 pada
+ \OT1/cmr/m/it/12 folder \OT1/cmtt/m/n/12 templates \OT1/cmr/m/n/12 seperti di-
+tun-jukkan
+ []
+
+<./resources/014-lokasi-tambah-data.png, id=349, 342.27875pt x 436.63126pt>
+File: ./resources/014-lokasi-tambah-data.png Graphic file (type png)
+
+<use ./resources/014-lokasi-tambah-data.png>
+Package pdftex.def Info: ./resources/014-lokasi-tambah-data.png used on input l
+ine 369.
+(pdftex.def)             Requested size: 195.0pt x 248.76247pt.
+ [16 <./resources/013-output-daftar-mahasiswa.png>] [17 <./resources/014-lokasi
+-tambah-data.png>]
+Overfull \hbox (15.21075pt too wide) in paragraph at lines 410--411
+\OT1/cmr/m/n/12 dik-lik, nantinya akan di-arahkan ke ha-la-man / for-mulir \OT1
+/cmtt/m/n/12 tambah-data.html\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (14.48239pt too wide) in paragraph at lines 410--411
+\OT1/cmr/m/n/12 data-data yang diper-lukan, ke-mu-dian, apa-bila \OT1/cmr/m/it/
+12 user \OT1/cmr/m/n/12 / peng-guna melakukan
+ []
+
+[18]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 440.
+
+Overfull \hbox (10.69084pt too wide) in paragraph at lines 452--453
+\OT1/cmtt/m/n/12 tambah-data.html\OT1/cmr/m/n/12 , berikut adalah hasil pe-ruba
+-han kode \OT1/cmtt/m/n/12 AppController
+ []
+
+[19]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 490
+.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 490.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/bx/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 490.
+
+<./resources/015-form-add-data.png, id=464, 1331.97626pt x 746.79pt>
+File: ./resources/015-form-add-data.png Graphic file (type png)
+
+<use ./resources/015-form-add-data.png>
+Package pdftex.def Info: ./resources/015-form-add-data.png used on input line 5
+02.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [20 <./resources/015-form-add-data.png>] [21] [22]
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 622.
+
+[23] [24]
+Overfull \hbox (0.857pt too wide) in paragraph at lines 683--684
+[]\OT1/cmr/m/it/12 Method \OT1/cmr/m/n/12 terse-but akan mere-spon den-gan tamp
+il-nya ha-la-man \OT1/cmtt/m/n/12 edit.html\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (1.53204pt too wide) in paragraph at lines 683--684
+\OT1/cmr/m/n/12 seperti pada baris ke-49, ke-mu-dian hasil pen-car-ian akan dis
+-im-pan dalam
+ []
+
+
+Overfull \hbox (35.9786pt too wide) in paragraph at lines 685--686
+[]\OT1/cmr/m/n/12 Membuat ha-la-man \OT1/cmtt/m/n/12 edit.html \OT1/cmr/m/n/12 
+un-tuk mem-berikan ke-sem-patan \OT1/cmr/m/it/12 user \OT1/cmr/m/n/12 melakukan
+
+ []
+
+[25] [26] [27] [28] [29] [30]
+Overfull \hbox (10.43332pt too wide) in paragraph at lines 920--921
+\OT1/cmr/m/n/12 oleh \OT1/cmr/m/it/12 browser\OT1/cmr/m/n/12 , kita cukup me-ma
+ng-gil \OT1/cmr/m/it/12 method \OT1/cmtt/m/n/12 delete \OT1/cmr/m/n/12 mi-lik \
+OT1/cmtt/m/n/12 JpaRepository
+ []
+
+) [31]
+\openout2 = `03.crud-angular.aux'.
+
+ (./03.crud-angular.tex
+Bab 2.
+
+Overfull \hbox (1.68687pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/n/12 PostgreSQL. Di-gu-nakan se-ba-gai \OT1/cmr/m/it/12 driver \OT
+1/cmr/m/n/12 ba-sis data yang menghubungkan
+ []
+
+
+<./resources/016-generate-package-angular.png, id=901, 1331.97626pt x 746.79pt>
+File: ./resources/016-generate-package-angular.png Graphic file (type png)
+<use ./resources/016-generate-package-angular.png>
+Package pdftex.def Info: ./resources/016-generate-package-angular.png used on i
+nput line 23.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [32
+
+
+
+]
+<./resources/017-default-pass.png, id=909, 656.4525pt x 391.4625pt>
+File: ./resources/017-default-pass.png Graphic file (type png)
+
+<use ./resources/017-default-pass.png>
+Package pdftex.def Info: ./resources/017-default-pass.png used on input line 45
+.
+(pdftex.def)             Requested size: 390.0pt x 232.56766pt.
+ [33 <./resources/016-generate-package-angular.png>] <./resources/018-user-ask.
+png, id=926, 1331.97626pt x 746.79pt>
+File: ./resources/018-user-ask.png Graphic file (type png)
+
+<use ./resources/018-user-ask.png>
+Package pdftex.def Info: ./resources/018-user-ask.png used on input line 54.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [34 <./resources/017-default-pass.png> <./resources/018-user-ask.png>]
+<./resources/019-default-index.png, id=936, 1331.97626pt x 746.79pt>
+File: ./resources/019-default-index.png Graphic file (type png)
+
+<use ./resources/019-default-index.png>
+Package pdftex.def Info: ./resources/019-default-index.png used on input line 6
+5.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+
+<./resources/021-lokasi-security-config.png, id=938, 341.275pt x 273.02pt>
+File: ./resources/021-lokasi-security-config.png Graphic file (type png)
+
+<use ./resources/021-lokasi-security-config.png>
+Package pdftex.def Info: ./resources/021-lokasi-security-config.png used on inp
+ut line 81.
+(pdftex.def)             Requested size: 195.0pt x 156.0021pt.
+ [35 <./resources/019-default-index.png>]
+
+LaTeX Warning: Reference `fig:custom-login' on page 36 undefined on input line 
+112.
+
+<./resources/020-custom-login.png, id=948, 1331.97626pt x 746.79pt>
+File: ./resources/020-custom-login.png Graphic file (type png)
+
+<use ./resources/020-custom-login.png>
+Package pdftex.def Info: ./resources/020-custom-login.png used on input line 11
+6.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [36 <./resources/021-lokasi-security-config.png>]
+Overfull \hbox (12.64171pt too wide) in paragraph at lines 121--122
+[]\OT1/cmr/m/n/12 Isikan den-gan \OT1/cmr/m/it/12 user-name \OT1/cmr/m/n/12 dan
+ \OT1/cmr/m/it/12 pass-word \OT1/cmr/m/n/12 seperti pada ke-las \OT1/cmtt/m/n/1
+2 SecurityConfig
+ []
+
+[37 <./resources/020-custom-login.png>]
+<./resources/022-lokasi-login.png, id=987, 310.15875pt x 306.14375pt>
+File: ./resources/022-lokasi-login.png Graphic file (type png)
+
+<use ./resources/022-lokasi-login.png>
+Package pdftex.def Info: ./resources/022-lokasi-login.png used on input line 18
+3.
+(pdftex.def)             Requested size: 195.0pt x 192.4745pt.
+ [38 <./resources/022-lokasi-login.png>]
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 195--196
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 197--198
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 198--199
+[][] 
+ []
+
+[39]
+Overfull \hbox (58.12704pt too wide) in paragraph at lines 228--229
+\OT1/cmr/m/it/12 method \OT1/cmtt/m/n/12 configureGlobal \OT1/cmr/m/n/12 dan me
+nam-bahkan \OT1/cmr/m/it/12 method \OT1/cmtt/m/n/12 configure(HttpSecurity)\OT1
+/cmr/m/n/12 .
+ []
+
+[40] [41]
+<./resources/023-lokasi-webconfig.png, id=1116, 269.005pt x 336.25626pt>
+File: ./resources/023-lokasi-webconfig.png Graphic file (type png)
+
+<use ./resources/023-lokasi-webconfig.png>
+Package pdftex.def Info: ./resources/023-lokasi-webconfig.png used on input lin
+e 309.
+(pdftex.def)             Requested size: 195.0pt x 243.75131pt.
+ [42 <./resources/023-lokasi-webconfig.png>]
+Overfull \hbox (27.5429pt too wide) in paragraph at lines 334--335
+[]\OT1/cmr/m/n/12 Lalu melakukan pe-merik-saan ap-likasi, se-harus-nya ap-likas
+i akan menampilkan
+ []
+
+<./resources/024-halaman-login.png, id=1133, 1331.97626pt x 746.79pt>
+File: ./resources/024-halaman-login.png Graphic file (type png)
+
+<use ./resources/024-halaman-login.png>
+Package pdftex.def Info: ./resources/024-halaman-login.png used on input line 3
+38.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+
+<./resources/025-halaman-utama.png, id=1135, 1331.97626pt x 746.79pt>
+File: ./resources/025-halaman-utama.png Graphic file (type png)
+
+<use ./resources/025-halaman-utama.png>
+Package pdftex.def Info: ./resources/025-halaman-utama.png used on input line 3
+47.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [43 <./resources/024-halaman-login.png>]
+Overfull \hbox (4.62277pt too wide) in paragraph at lines 357--358
+\OT1/cmr/m/n/12 Karena kita su-dah berhasil mem-buat bagian \OT1/cmr/m/it/12 lo
+-gin \OT1/cmr/m/n/12 ber-jalan den-gan se-mestinya,
+ []
+
+<./resources/026-lokasi-test-angular.png, id=1155, 265.99374pt x 344.28625pt>
+File: ./resources/026-lokasi-test-angular.png Graphic file (type png)
+
+<use ./resources/026-lokasi-test-angular.png>
+Package pdftex.def Info: ./resources/026-lokasi-test-angular.png used on input 
+line 364.
+(pdftex.def)             Requested size: 195.0pt x 252.40381pt.
+ [44 <./resources/025-halaman-utama.png>]
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 376--377
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 378--379
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 379--380
+[][] 
+ []
+
+[45 <./resources/026-lokasi-test-angular.png>]
+<./resources/027-test-angular.png, id=1178, 1331.97626pt x 746.79pt>
+File: ./resources/027-test-angular.png Graphic file (type png)
+
+<use ./resources/027-test-angular.png>
+Package pdftex.def Info: ./resources/027-test-angular.png used on input line 42
+0.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [46]
+<./resources/028-lokasi-daftar-mahasiswa.png, id=1214, 270.00874pt x 373.395pt>
+File: ./resources/028-lokasi-daftar-mahasiswa.png Graphic file (type png)
+<use ./resources/028-lokasi-daftar-mahasiswa.png>
+Package pdftex.def Info: ./resources/028-lokasi-daftar-mahasiswa.png used on in
+put line 439.
+(pdftex.def)             Requested size: 195.0pt x 269.67033pt.
+ [47 <./resources/027-test-angular.png>]
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 450--451
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 452--453
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 453--454
+[][] 
+ []
+
+[48 <./resources/028-lokasi-daftar-mahasiswa.png>]
+<./resources/029-lokasi-app-js.png, id=1237, 300.12125pt x 362.35374pt>
+File: ./resources/029-lokasi-app-js.png Graphic file (type png)
+
+<use ./resources/029-lokasi-app-js.png>
+Package pdftex.def Info: ./resources/029-lokasi-app-js.png used on input line 4
+91.
+(pdftex.def)             Requested size: 195.0pt x 235.43867pt.
+ [49]
+Overfull \hbox (14.22453pt too wide) in paragraph at lines 502--503
+\OT1/cmtt/m/n/12 ApiController \OT1/cmr/m/n/12 yang se-be-tul-nya di-am-bilkan 
+dari \OT1/cmr/m/it/12 file \OT1/cmtt/m/n/12 api-controller.js\OT1/cmr/m/n/12 .
+ []
+
+
+<./resources/030-lokasi-api-controller-js.png, id=1276, 306.14375pt x 347.2975p
+t>
+File: ./resources/030-lokasi-api-controller-js.png Graphic file (type png)
+ <use ./resources/030-lokasi-api-controller-js.png>
+Package pdftex.def Info: ./resources/030-lokasi-api-controller-js.png used on i
+nput line 506.
+(pdftex.def)             Requested size: 195.0pt x 221.20976pt.
+ [50 <./resources/029-lokasi-app-js.png>]
+Overfull \hbox (77.67572pt too wide) in paragraph at lines 536--537
+[]\OT1/cmr/m/n/12 Kemudian pada baris ke-4 ada deklarasi fungsi den-gan nama \O
+T1/cmtt/m/n/12 updateDaftarMahasiswa\OT1/cmr/m/n/12 ,
+ []
+
+[51 <./resources/030-lokasi-api-controller-js.png>]
+Overfull \hbox (27.41441pt too wide) in paragraph at lines 540--541
+\OT1/cmr/m/n/12 mana dis-ana ada atribut \OT1/cmtt/m/n/12 ng-repeat \OT1/cmr/m/
+n/12 den-gan isian \OT1/cmtt/m/n/12 mhs in daftarMahasiswa\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (59.1644pt too wide) in paragraph at lines 540--541
+\OT1/cmr/m/n/12 nantinya An-gu-lar akan melakukan it-erasi un-tuk se-tiap data 
+pada \OT1/cmtt/m/n/12 daftarMahasiswa
+ []
+
+
+<./resources/031-letak-api-rest-controller.png, id=1310, 348.30125pt x 382.4287
+6pt>
+File: ./resources/031-letak-api-rest-controller.png Graphic file (type png)
+ <use ./resources/031-letak-api-rest-controller.png>
+Package pdftex.def Info: ./resources/031-letak-api-rest-controller.png used on 
+input line 548.
+(pdftex.def)             Requested size: 195.0pt x 214.10611pt.
+ [52 <./resources/031-letak-api-rest-controller.png>]
+<./resources/032-letak-mahasiswa.png, id=1318, 342.27875pt x 365.365pt>
+File: ./resources/032-letak-mahasiswa.png Graphic file (type png)
+
+<use ./resources/032-letak-mahasiswa.png>
+Package pdftex.def Info: ./resources/032-letak-mahasiswa.png used on input line
+ 589.
+(pdftex.def)             Requested size: 195.0pt x 208.15985pt.
+ [53] [54 <./resources/032-letak-mahasiswa.png>]
+Overfull \hbox (1.4197pt too wide) in paragraph at lines 628--629
+[]\OT1/cmr/m/n/12 Selanjutnya kita mem-buat \OT1/cmr/m/it/12 file \OT1/cmr/m/n/
+12 den-gan nama \OT1/cmtt/m/n/12 MahasiswaRepo.java \OT1/cmr/m/n/12 yang
+ []
+
+
+<./resources/033-letak-mahasiswa-repo.png, id=1386, 342.27875pt x 380.42125pt>
+File: ./resources/033-letak-mahasiswa-repo.png Graphic file (type png)
+
+<use ./resources/033-letak-mahasiswa-repo.png>
+Package pdftex.def Info: ./resources/033-letak-mahasiswa-repo.png used on input
+ line 632.
+(pdftex.def)             Requested size: 195.0pt x 216.73787pt.
+ [55 <./resources/033-letak-mahasiswa-repo.png>]
+Overfull \hbox (14.31216pt too wide) in paragraph at lines 658--659
+\OT1/cmr/m/n/12 man \OT1/cmtt/m/n/12 daftar-mahasiswa.html \OT1/cmr/m/n/12 ke d
+alam daf-tar \OT1/cmr/m/it/12 view \OT1/cmr/m/n/12 pada ke-las \OT1/cmtt/m/n/12
+ WebConfig
+ []
+
+
+<./resources/034-halaman-daftar-mahasiswa.png, id=1404, 1331.97626pt x 746.79pt
+>
+File: ./resources/034-halaman-daftar-mahasiswa.png Graphic file (type png)
+ <use ./resources/034-halaman-daftar-mahasiswa.png>
+Package pdftex.def Info: ./resources/034-halaman-daftar-mahasiswa.png used on i
+nput line 686.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [56]
+Overfull \hbox (2.0501pt too wide) in paragraph at lines 697--698
+\OT1/cmr/m/n/12 Untuk menam-bahkan data, kita perlu se-buah ha-la-man yang berb
+en-tuk seperti
+ []
+
+
+Overfull \hbox (17.73329pt too wide) in paragraph at lines 697--698
+\OT1/cmr/m/n/12 for-mulir agar \OT1/cmr/m/it/12 user \OT1/cmr/m/n/12 da-pat men
+gisikan in-for-masi ten-tang data yang baru. Langkah-
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 707--708
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 709--710
+[][] 
+ []
+
+[57 <./resources/034-halaman-daftar-mahasiswa.png>]
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 710--711
+[][] 
+ []
+
+[58]
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 762--763
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 764--765
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 765--766
+[][] 
+ []
+
+[59]
+Overfull \hbox (9.42741pt too wide) in paragraph at lines 808--809
+[]\OT1/cmr/m/n/12 Selanjutnya un-tuk tiap kom-po-nen \OT1/cmtt/m/n/12 <input> \
+OT1/cmr/m/n/12 kita kaitkan den-gan \OT1/cmtt/m/n/12 ng-model
+ []
+
+
+Overfull \hbox (18.95139pt too wide) in paragraph at lines 821--822
+[]\OT1/cmr/m/n/12 Berikutnya kita buat \OT1/cmr/m/it/12 con-troller \OT1/cmr/m/
+n/12 di \OT1/cmr/m/it/12 front-end \OT1/cmr/m/n/12 den-gan nama \OT1/cmtt/m/n/1
+2 FormController
+ []
+
+
+Overfull \hbox (51.46039pt too wide) in paragraph at lines 821--822
+\OT1/cmr/m/n/12 un-tuk menan-gani \OT1/cmr/m/it/12 view \OT1/cmr/m/n/12 atau \O
+T1/cmr/m/it/12 file \OT1/cmtt/m/n/12 form.html\OT1/cmr/m/n/12 . Lokasi dari \OT
+1/cmr/m/it/12 file \OT1/cmtt/m/n/12 form-controller.js
+ []
+
+
+Overfull \hbox (1.48888pt too wide) in paragraph at lines 821--822
+\OT1/cmr/m/n/12 sama seperti \OT1/cmr/m/it/12 file \OT1/cmtt/m/n/12 api-control
+ler.js\OT1/cmr/m/n/12 , yaitu di dalam \OT1/cmr/m/it/12 folder \OT1/cmtt/m/n/12
+ static/js\OT1/cmr/m/n/12 ,
+ []
+
+[60]
+Overfull \hbox (20.15964pt too wide) in paragraph at lines 839--840
+[]\OT1/cmr/m/n/12 Pada \OT1/cmr/m/it/12 con-troller \OT1/cmr/m/n/12 ini, kita m
+em-bu-tuhkan kom-po-nen \OT1/cmtt/m/n/12 $scope \OT1/cmr/m/n/12 un-tuk melakuka
+n
+ []
+
+
+Overfull \hbox (11.78943pt too wide) in paragraph at lines 848--849
+[]\OT1/cmr/m/n/12 Kemudian pada baris ke-5, \OT1/cmr/m/it/12 con-troller front-
+end \OT1/cmr/m/n/12 mu-lai mengko-mu-nikasikan
+ []
+
+
+Overfull \hbox (5.23103pt too wide) in paragraph at lines 850--851
+\OT1/cmr/m/n/12 ruba-han kode yang kita lakukan ter-hadap \OT1/cmr/m/it/12 file
+ \OT1/cmtt/m/n/12 ApiRestController.java
+ []
+
+[61]
+Overfull \hbox (7.62703pt too wide) in paragraph at lines 899--900
+\OT1/cmr/m/n/12 dik-lik, berikut adalah pe-ruba-han kode yang ter-jadi pada ke-
+las \OT1/cmtt/m/n/12 WebConfig
+ []
+
+[62]
+Overfull \hbox (29.11061pt too wide) in paragraph at lines 923--924
+[]\OT1/cmr/m/n/12 Melakukan uji-coba, se-harus-nya saat tombol tam-bah pada \OT
+1/cmtt/m/n/12 daftar-mahasiswa
+ []
+
+<./resources/035-halaman-entry-data.png, id=1635, 1331.97626pt x 746.79pt>
+File: ./resources/035-halaman-entry-data.png Graphic file (type png)
+
+<use ./resources/035-halaman-entry-data.png>
+Package pdftex.def Info: ./resources/035-halaman-entry-data.png used on input l
+ine 927.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [63]
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 950--951
+[][] 
+ []
+
+[64 <./resources/035-halaman-entry-data.png>]
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 952--953
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 953--954
+[][] 
+ []
+
+[65]
+Overfull \hbox (8.69054pt too wide) in paragraph at lines 1002--1003
+\OT1/cmtt/m/n/12 ubah \OT1/cmr/m/n/12 ini nantinya hanya melakukan \OT1/cmr/m/i
+t/12 re-quest \OT1/cmr/m/n/12 ter-hadap ha-la-man \OT1/cmtt/m/n/12 edit-form
+ []
+
+[66]
+Overfull \hbox (61.55644pt too wide) in paragraph at lines 1032--1033
+[]\OT1/cmr/m/n/12 Seharusnya nanti ha-la-man yang tampil akan berubah dari \OT1
+/cmtt/m/n/12 daftar-mahasiswa.html
+ []
+
+
+Overfull \hbox (7.16928pt too wide) in paragraph at lines 1034--1035
+\OT1/cmr/m/n/12 siap menampilkan \OT1/cmr/m/it/12 re-sponse \OT1/cmr/m/n/12 dar
+i \OT1/cmr/m/it/12 re-quest \OT1/cmr/m/n/12 pada langkah se-belum-nya. Letak
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 1041--1042
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 1043--1044
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 1044--1045
+[][] 
+ []
+
+[67]
+Overfull \hbox (3.72308pt too wide) in paragraph at lines 1096--1097
+[]\OT1/cmr/m/n/12 Membuat \OT1/cmr/m/it/12 file \OT1/cmtt/m/n/12 edit-form-cont
+roller.js \OT1/cmr/m/n/12 agar da-pat mem-baca \OT1/cmr/m/it/12 url \OT1/cmr/m/
+n/12 yang
+ []
+
+[68]
+Overfull \hbox (1.53426pt too wide) in paragraph at lines 1129--1130
+\OT1/cmtt/m/n/12 $window\OT1/cmr/m/n/12 , dan \OT1/cmtt/m/n/12 $http\OT1/cmr/m/
+n/12 . Di dalam \OT1/cmr/m/it/12 con-troller \OT1/cmr/m/n/12 ini, ada ob-jek \O
+T1/cmtt/m/n/12 dataMahasiswa
+ []
+
+
+Overfull \hbox (61.01347pt too wide) in paragraph at lines 1129--1130
+\OT1/cmr/m/n/12 yang fungsinya adalah meny-im-pan hasil \OT1/cmr/m/it/12 en-try
+ \OT1/cmr/m/n/12 data pada ha-la-man \OT1/cmtt/m/n/12 edit-form.html\OT1/cmr/m/
+n/12 ,
+ []
+
+[69] [70]
+Overfull \hbox (6.6658pt too wide) in paragraph at lines 1197--1198
+[]\OT1/cmr/m/n/12 Pada baris ke-47, kita hanya meli-hat pe-mang-gi-lan se-buah 
+fungsi \OT1/cmtt/m/n/12 findOne
+ []
+
+[71]
+Overfull \hbox (5.87167pt too wide) in paragraph at lines 1220--1221
+[]\OT1/cmtt/m/n/10 registry.addViewController("/edit-form").setViewName("edit-f
+orm");  
+ []
+
+<./resources/036-tampilan-edit-form.png, id=1930, 1331.97626pt x 746.79pt>
+File: ./resources/036-tampilan-edit-form.png Graphic file (type png)
+
+<use ./resources/036-tampilan-edit-form.png>
+Package pdftex.def Info: ./resources/036-tampilan-edit-form.png used on input l
+ine 1230.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [72]
+Overfull \hbox (16.54507pt too wide) in paragraph at lines 1244--1245
+[]\OT1/cmr/m/n/12 Mengubah / menam-bahkan tombol \OT1/cmtt/m/n/12 Hapus \OT1/cm
+r/m/n/12 di \OT1/cmr/m/it/12 file \OT1/cmtt/m/n/12 daftar-mahasiswa.html\OT1/cm
+r/m/n/12 .
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 1250--1251
+[][] 
+ []
+
+
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 1252--1253
+[][] 
+ []
+
+[73 <./resources/036-tampilan-edit-form.png>]
+Overfull \hbox (43.3786pt too wide) in paragraph at lines 1253--1254
+[][] 
+ []
+
+[74]
+Overfull \hbox (51.70938pt too wide) in paragraph at lines 1307--1308
+\OT1/cmr/m/n/12 adalah pe-ruba-han atau pe-nam-ba-han kode yang ter-jadi di \OT
+1/cmr/m/it/12 file \OT1/cmtt/m/n/12 api-controller.js
+ []
+
+[75] [76]
+
+LaTeX Warning: Reference `fig:halaman-dengan-hapus-data' on page 77 undefined o
+n input line 1411.
+
+
+<./resources/037-halaman-dengan-hapus-data.png, id=2104, 1331.97626pt x 746.79p
+t>
+File: ./resources/037-halaman-dengan-hapus-data.png Graphic file (type png)
+ <use ./resources/037-halaman-dengan-hapus-data.png>
+Package pdftex.def Info: ./resources/037-halaman-dengan-hapus-data.png used on 
+input line 1415.
+(pdftex.def)             Requested size: 390.0pt x 218.64885pt.
+ [77]) [78 <./resources/037-halaman-dengan-hapus-data.png>]
+No file 00.book.ind.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
+(./00.book.aux (./02.crud-thymeleaf.aux) (./03.crud-angular.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+Package rerunfilecheck Info: File `00.book.out' has not changed.
+(rerunfilecheck)             Checksum: 6E9EA6A9B106F63FC5CE0DB8832E8CBB;928.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
+ ) 
+Here is how much of TeX's memory you used:
+ 9198 strings out of 494902
+ 140280 string characters out of 6179891
+ 418367 words of memory out of 5000000
+ 10640 multiletter control sequences out of 15000+600000
+ 9896 words of font info for 35 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 29i,7n,32p,604b,1774s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
+12.pfb>
+Output written on 00.book.pdf (79 pages, 1566425 bytes).
+PDF statistics:
+ 2540 PDF objects out of 2984 (max. 8388607)
+ 2367 compressed objects within 24 object streams
+ 1717 named destinations out of 1728 (max. 500000)
+ 306 words of extra memory for PDF output out of 10000 (max. 10000000)
+
